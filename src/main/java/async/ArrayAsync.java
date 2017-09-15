@@ -1,4 +1,4 @@
-package threading.async;
+package async;
 
 public class ArrayAsync {
 

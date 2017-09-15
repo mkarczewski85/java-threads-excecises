@@ -1,4 +1,4 @@
-package threading.producer_consumer;
+package producer_consumer;
 
 import lombok.Getter;
 

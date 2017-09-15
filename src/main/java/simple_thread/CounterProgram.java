@@ -1,4 +1,4 @@
-package threading.simple_thread;
+package simple_thread;
 
 public class CounterProgram {
 
